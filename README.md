@@ -16,7 +16,8 @@ The insights are visualized through an **interactive Power BI dashboard**, helpi
 ---
 
 ## 📷 Dashboard Preview 
-<img width="1203" height="734" alt="Ecommerce Sales Dashboard" src="https://github.com/user-attachments/assets/c7a09507-b16f-4d14-a9dd-be06b6d0d997" />
+<img width="1418" height="851" alt="Dashboard" src="https://github.com/user-attachments/assets/f7b15c49-20ed-4ec3-b928-42cf199adcd0" />
+
 
 ---
 
@@ -333,6 +334,7 @@ FORMAT ( PctChange, "0.00%" ) & " " & Arrow
 - Premium shipping options (First Class, Same Day) are underutilized, limiting opportunities to build loyalty among high-value, time-sensitive customers.
 - The shipping mix reflects a trade-off between affordability and reliability that may constrain long-term customer satisfaction and retention.
 
+<img width="432" height="493" alt="Delivery   Shipping" src="https://github.com/user-attachments/assets/86741f9b-cb01-4dc7-9566-126185a2dadd" />
 
 ---
 
