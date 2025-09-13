@@ -232,6 +232,8 @@ FORMAT ( PctChange, "0.00%" ) & " " & Arrow
 - Revenue stability indicates a resilient customer base, but inconsistent growth highlights vulnerability to external factors (competition, supply chain, promotions).
 - Predictable cycles create both an opportunity (better planning) and a risk (over-dependence on peaks). 
 
+<img width="705" height="417" alt="Trend analysis" src="https://github.com/user-attachments/assets/a693ce16-60de-423e-99a6-9a71d26a368f" />
+
 ---
 
 ### 3. 🗂️ **Category Analysis**  
@@ -249,6 +251,9 @@ FORMAT ( PctChange, "0.00%" ) & " " & Arrow
 - Furniture growth indicates an emerging opportunity to tap into higher-value purchases (corporate and home office markets).
 - The decline in Technology sales highlights a missed opportunity in a high-margin segment, possibly due to weak positioning or competition.
 - Lack of balanced performance across categories risks long-term growth stability.
+
+<img width="642" height="309" alt="Sales by Category" src="https://github.com/user-attachments/assets/f9a72132-57b8-4615-afd4-0a9362d3e5bf" />
+
 ---
 
 ### 4. 🏷️ **Top Products**  
@@ -266,6 +271,9 @@ FORMAT ( PctChange, "0.00%" ) & " " & Arrow
 - Heavy reliance on consumables makes revenue vulnerable to volume fluctuations and competitive pricing.
 - Inclusion of furniture (KI Chairs) among top products suggests an untapped growth potential in higher-value categories.
 - Without diversification, profitability may stagnate despite stable sales.
+
+<img width="706" height="463" alt="Top Products" src="https://github.com/user-attachments/assets/1f5669aa-751d-42ce-9867-a2f43571b891" />
+
 ---
 
 ### 3. 🌍 **Regional Trends**  
@@ -284,6 +292,8 @@ FORMAT ( PctChange, "0.00%" ) & " " & Arrow
 - The South region’s underperformance highlights significant growth potential, but also exposes structural challenges (logistics, competition, brand presence).
 - Uneven regional distribution suggests that the business is not yet fully capitalizing on national market potential.
 
+<img width="600" height="368" alt="Reginal Sales" src="https://github.com/user-attachments/assets/b425a92c-aaef-414f-aeb4-76e22ca76cf5" />
+
 ---
 ### 6. 🗺️ **State-wise Insights**  
 - High sales concentration in **California, New York, and Texas**.  
@@ -299,6 +309,8 @@ FORMAT ( PctChange, "0.00%" ) & " " & Arrow
 - Dependence on dense urban markets indicates limited geographic diversification.
 - Under-penetration in smaller states suggests lost revenue opportunities and slower national growth.
 - Weak reach in rural/less-developed states reflects structural challenges like higher delivery costs and lower brand awareness. 
+
+<img width="646" height="567" alt="Sales by States" src="https://github.com/user-attachments/assets/1f1e4bc7-5cdc-4c0f-9df5-9653af435b23" />
 
 ---
 
@@ -320,6 +332,7 @@ FORMAT ( PctChange, "0.00%" ) & " " & Arrow
 - A significant share of late deliveries ($6.24M sales) suggests that logistics inefficiencies are eroding customer experience, even in cost-effective segments.
 - Premium shipping options (First Class, Same Day) are underutilized, limiting opportunities to build loyalty among high-value, time-sensitive customers.
 - The shipping mix reflects a trade-off between affordability and reliability that may constrain long-term customer satisfaction and retention.
+
 
 ---
 
